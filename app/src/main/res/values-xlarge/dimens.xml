@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_size_view">65sp</dimen>
+    <dimen name="btn_score_padding">70dp</dimen>
+    <dimen name="question_padding">30dp</dimen>
+</resources>

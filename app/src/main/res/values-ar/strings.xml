@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اتحدى عقلك</string>
+
+    <string name="low">منخفض</string>
+    <string name="medium">متوسط</string>
+    <string name="high">عالى</string>
+    <string name="professional">محترف</string>
+    <string name="top">نجم</string>
+
+    <string name="over">انتهت</string>
+    <string name="score">درجتك</string>
+    <string name="exit">اغلاق</string>
+    <string name="again">مره أخرى</string>
+
+</resources>

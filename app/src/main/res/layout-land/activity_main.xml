@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@drawable/bg"
+    tools:context="com.abdelwahabelazab.brainchallenge.MainActivity">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <android.support.v4.widget.Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/low"
+            android:id="@+id/button"
+            android:padding="2dp"
+            android:textSize="30sp"
+            android:onClick="buPlay"
+            android:tag="0"
+            android:background="@drawable/btn_blue" style="@style/ButtonText"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/medium"
+            android:id="@+id/button2"
+            android:padding="2dp"
+            android:textSize="30sp"
+            android:onClick="buPlay"
+            android:tag="1"
+            android:background="@drawable/btn_blue" style="@style/ButtonText"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/high"
+            android:id="@+id/button3"
+            android:padding="2dp"
+            android:textSize="30sp"
+            android:onClick="buPlay"
+            android:tag="2"
+            android:background="@drawable/btn_blue" style="@style/ButtonText"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/professional"
+            android:id="@+id/button4"
+            android:padding="2dp"
+            android:textSize="30sp"
+            android:onClick="buPlay"
+            android:tag="3"
+            android:background="@drawable/btn_blue" style="@style/ButtonText"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/top"
+            android:id="@+id/button5"
+            android:onClick="buPlay"
+            android:padding="2dp"
+            android:textSize="30sp"
+            android:tag="4"
+            android:background="@drawable/btn_blue" style="@style/ButtonText"/>
+
+        <android.support.v4.widget.Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"/>
+    </LinearLayout>
+</RelativeLayout>

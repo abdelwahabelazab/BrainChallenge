@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Défi du cerveau</string>
+
+    <string name="low">faible</string>
+    <string name="medium">moyen</string>
+    <string name="high">haute</string>
+    <string name="professional">professionnel</string>
+    <string name="top">Haut</string>
+
+    <string name="over">Jeu terminé</string>
+    <string name="score">Ton score</string>
+    <string name="exit">Sortie</string>
+    <string name="again">Rejouer</string>
+
+
+</resources>

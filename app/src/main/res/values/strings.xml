@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Brain Challenge</string>
+
+    <string name="low">LOW LEVEL</string>
+    <string name="medium">MEDIUM LEVEL</string>
+    <string name="high">HIGH LEVEL</string>
+    <string name="professional">PROFESSIONAL LEVEL</string>
+    <string name="top">TOP LEVEL</string>
+
+    <string name="over">Game Over</string>
+    <string name="score">Your Score</string>
+    <string name="exit">Exit</string>
+    <string name="again">Play Again</string>
+
+</resources>

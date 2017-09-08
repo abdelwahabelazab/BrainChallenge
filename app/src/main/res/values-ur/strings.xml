@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دماغ کی چیلنج</string>
+
+    <string name="low">کم</string>
+    <string name="medium">درمیانی</string>
+    <string name="high">ہائی</string>
+    <string name="professional">پیشہ ورانہ</string>
+    <string name="top">اوپر</string>
+
+    <string name="over">کھیل ختم</string>
+    <string name="score">آپ کا سکور</string>
+    <string name="exit">باہر نکلیں</string>
+    <string name="again">دوبارہ کھیلو</string>
+
+</resources>

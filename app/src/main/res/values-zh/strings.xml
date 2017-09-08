@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">大脑挑战</string>
+
+    <string name="low">低</string>
+    <string name="medium">中介</string>
+    <string name="high">高</string>
+    <string name="professional">专业的</string>
+    <string name="top">最佳</string>
+
+    <string name="over">游戏结束</string>
+    <string name="score">你的分数</string>
+    <string name="exit">出口</string>
+    <string name="again">再玩一次</string>
+
+</resources>
